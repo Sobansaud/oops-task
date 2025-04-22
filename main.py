@@ -549,3 +549,7 @@ if uploaded_file:
                 st.warning("Resume shows good experience, but has room to grow.")
             else:
                 st.error("Resume lacks depth in experience.")
+
+else:
+    st.error(" Please upload a valid PDF file to proceed.")
+
