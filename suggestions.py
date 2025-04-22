@@ -1,4 +1,3 @@
-
 class SuggestionGenerator:
     def __init__(self, extracted_skills, all_skills):
         self.extracted_skills = [skill.lower() for skill in extracted_skills]

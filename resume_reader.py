@@ -1,4 +1,3 @@
-
 import fitz  # PyMuPDF
 
 class Resume_reader:

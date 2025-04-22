@@ -1,4 +1,3 @@
-
 class Score:
     def __init__(self, extracted_skills, all_skills):
         self.extracted_skills = extracted_skills
