@@ -1,7 +1,6 @@
-STREAMLIT LINK : ["  "]
+STREAMLIT LINK : [" https://oops-tasks-by-soban.streamlit.app/ "]
 
-
-
+👨‍💻 Made with ❤️ by Muhammad Soban Saud
 
 (Smart Resume Analyzer)
 
@@ -93,16 +92,6 @@ The results are presented through a structured, OOP-designed interface, allowing
 
 Streamlit: For building the web app and displaying the user interface.
 
-Python: The core programming language, leveraging OOP to ensure clean, modular, and scalable code.
-
-Pandas: For handling and analyzing skill data.
-
-Plotly: For creating interactive charts and graphs, visualizing the resume score and skills.
-
-WordCloud: For generating a visual representation of the most common skills found in the resume.
-
-Matplotlib: For visualizing data, such as the word cloud.
-
 (Custom OOP Modules:)
 
 ResumeReader: A class for extracting text from PDF resumes using OOP techniques.
@@ -114,6 +103,31 @@ Score: A class for calculating the resume score based on predefined metrics.
 SuggestionGenerator: A class for generating feedback and improvement suggestions.
 
 ExperienceChecker: A class to check and validate work experience listed in the resume.
+
+
+Python: The core programming language, leveraging OOP to ensure clean, modular, and scalable code.
+
+Pandas: For handling and analyzing skill data.
+
+Plotly: For creating interactive charts and graphs, visualizing the resume score and skills.
+
+WordCloud: For generating a visual representation of the most common skills found in the resume.
+
+Matplotlib: For visualizing data, such as the word cloud.
+
+
+
+🧠 Built Using OOP (Object-Oriented Programming)
+
+The architecture is modular and reusable thanks to extensive use of OOP. You’ll find class-based logic throughout the application for:
+
+Reading resumes (Resume_reader)
+
+Extracting skills (Skills)
+
+Scoring and analysis (Score)
+
+Generating suggestions (SuggestionGenerator)
 
 (How to Use)
 
@@ -139,4 +153,6 @@ Skill Breakdown and Analysis
 
 4) Improve your resume:
 Follow the provided tips and suggestions to enhance your resume and align it better with industry standards.
+
+
 
