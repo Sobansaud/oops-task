@@ -193,3 +193,4 @@ if uploaded_file:
 
     else:
         st.error("The uploaded resume seems to be either empty or unreadable. Please check the file and try again.")
+
